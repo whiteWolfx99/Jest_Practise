@@ -1,6 +1,6 @@
-const calculator = require('./test3');
+const Calculator = require('./test3');
 
-const Object = new calculator();
+const Object = new Calculator();
 
 // i write all of the condition in one test3.js
 // so if it will pass all of the requrement it will pass the test
